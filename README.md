@@ -13,8 +13,7 @@ Contributions to this handbook are welcome! You can collaborate by:
 
 1. **Reporting Issues**: If you find any errors or inconsistencies, please open an issue on the repository.
 2. **Suggesting Improvements**: If you have suggestions for enhancing the explanations or coverage, feel free to contribute.
-3. **Submitting Pull Requests**: If you want to contribute directly, fork the repository, make your changes, and submit a pull request.
-4. **Referencing New Resources**: If you have additional references that can improve the content, please share them.
+3. **Requesting Access**: To contribute directly to the LaTeX file, please contact me via email or open an issue in the repository. I will provide access accordingly.
 
 For any contributions, please follow the standard academic and coding etiquette, and ensure that your contributions align with the handbook's purpose.
 
