@@ -5,12 +5,11 @@ This course handbook has been prepared for the subject **188.399 Introduction to
 However, you will not find any insights for doing the subject assignments. This handbook aims to provide a solid base on the concepts explained in the lectures.
 
 **Disclaimer**: The content is still in development, and some minor changes may occur in future versions.
+
 ---
 
 ## Star the Repository! ⭐
 If you find this handbook useful for your studies, please consider giving the repository a star on GitHub! It helps others discover the resource and shows appreciation for the effort involved.
-
----
 
 ---
 
