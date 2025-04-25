@@ -20,7 +20,6 @@ Contributions to this handbook are welcome! You can collaborate by:
 2.  **Suggesting Improvements**: If you have suggestions for enhancing the explanations or coverage, feel free to contribute.
 3.  **Requesting Access**: To contribute directly to the LaTeX file, please contact me via email or open an issue in the repository. I will provide access accordingly.
 
-For any contributions, please follow the standard academic and coding etiquette, and ensure that your contributions align with the handbook's purpose.
 ---
 
 ## License
