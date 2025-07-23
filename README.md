@@ -4,8 +4,6 @@
 This course handbook has been prepared for the subject **188.399 Introduction to Semantic Systems (VU 2.0) 2024W** at **TU Wien**, using the content of the subject. Most of the fundamental topics are covered in depth.
 However, you will not find any insights for doing the subject assignments. This handbook aims to provide a solid base on the concepts explained in the lectures.
 
-**Disclaimer**: The content is still in development, and some minor changes may occur in future versions.
-
 ---
 
 ## Star the Repository! ⭐
